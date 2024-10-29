@@ -71,6 +71,9 @@ public:
       //Postcondition: Returns true if num is in small grid,
       //    otherwise it returns false.
 
+    // Getter function to access grid values
+    int getGridValue(int row, int col) const;
+
 private:
     int grid[9][9];
 };
