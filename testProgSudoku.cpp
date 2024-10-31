@@ -1,5 +1,5 @@
 // No work has been done beyond the source code given in the book
-// Please include the standard info about yourself and the program here
+// Please include the standard info about yourself and the program here.
 
 #include <iostream>
 #include <cmath>
